@@ -8,5 +8,6 @@ ShipScope helps hackers turn vague build ideas into a concrete shipping checklis
 
 Stack: Node.js + Express + vanilla JS
 
-Build on Sundai Club on 2026-03-08
+
+Build on Sundai Club on March 8, 2026
 Sundai Project: https://www.sundai.club/projects/5ec658f2-eafb-41b2-b913-dbd28ae3f2da
